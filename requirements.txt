@@ -1,0 +1,8 @@
+python-sat
+numpy
+matplotlib
+pandas
+pytest
+pyside6
+pygame
+

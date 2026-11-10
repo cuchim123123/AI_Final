@@ -1,0 +1,33 @@
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Testing & Logs
+.pytest_cache/
+*.log
+scratch/
+.coverage
+htmlcov/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# AI Planning and Agent Documentation (Local only)
+**/PLAN.md
+**/PLAN_*.md
+*PLAN*.md
+**/GUI_PROMPT.md
+**/gui_analysis.md
+
